@@ -1,0 +1,119 @@
+{
+ "tested_date": "2026-08-31",
+ "sites": {
+  "agentrouter.org": {
+   "status": "alive"
+  },
+  "api.aiaiai001.com": {
+   "status": "alive",
+   "bonus": "$0",
+   "aff": "BELz",
+   "mine": true
+  },
+  "api.aisz.mom": {
+   "status": "alive"
+  },
+  "api.bybing.cc": {
+   "status": "alive",
+   "bonus": "$0.5",
+   "aff": "tOS5",
+   "mine": true
+  },
+  "api.code-relay.com": {
+   "status": "alive"
+  },
+  "api.justwoker.icu": {
+   "status": "alive"
+  },
+  "api.uu6.top": {
+   "status": "alive",
+   "bonus": "$1",
+   "aff": "wEkf",
+   "mine": true
+  },
+  "api.yunhe.one": {
+   "status": "alive",
+   "bonus": "$0.5",
+   "aff": "B4Km",
+   "mine": true
+  },
+  "cli.999554.xyz": {
+   "status": "alive",
+   "bonus": "$1",
+   "aff": "EIEB",
+   "mine": true
+  },
+  "dawclaudecode.com": {
+   "status": "alive",
+   "bonus": "$1",
+   "aff": "fBFh",
+   "mine": true
+  },
+  "freeapi.dgbmc.top": {
+   "status": "alive"
+  },
+  "helpcoder.cc": {
+   "status": "alive",
+   "bonus": "$200",
+   "aff": "R3N4",
+   "mine": true
+  },
+  "jianzhile.vip": {
+   "status": "alive"
+  },
+  "jucodex.com": {
+   "status": "alive"
+  },
+  "kapibala.asia": {
+   "status": "alive"
+  },
+  "moyuu.cc": {
+   "status": "alive"
+  },
+  "straitapi.com": {
+   "status": "alive",
+   "bonus": "$0",
+   "aff": "7N5c",
+   "mine": true
+  },
+  "sudoflow.top": {
+   "status": "alive"
+  },
+  "superapi.buzz": {
+   "status": "alive"
+  },
+  "vsllm.com": {
+   "status": "alive"
+  },
+  "newapi.makelove.cloud": {
+   "status": "alive"
+  },
+  "52mx.net": {
+   "status": "dead"
+  },
+  "585016d3.u3u.dev": {
+   "status": "dead"
+  },
+  "ai.0d0d.top": {
+   "status": "dead"
+  },
+  "aixiaobai.pro": {
+   "status": "dead"
+  },
+  "api.iamhc.cn": {
+   "status": "dead"
+  },
+  "api.tokenshub.site": {
+   "status": "dead"
+  },
+  "downstream.jbbtoken.cn": {
+   "status": "dead"
+  },
+  "sub.vcnovb.cn": {
+   "status": "dead"
+  },
+  "xn--ohq4b780ces0a.xyz": {
+   "status": "dead"
+  }
+ }
+}
